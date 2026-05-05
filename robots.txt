@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-xl0fdt.rankalead.com/sitemap.xml
